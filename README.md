@@ -7,6 +7,7 @@ Java | C# | Angular | C | MySQL | .NET MAUI
 
 ## 💡 Projects
 - Movie Explorer – Cross-platform app for browsing and managing movies (built with .NET MAUI)
+- Recipe Finder App – Ionic and Angular application using TheMealDB API to browse recipes, view details, and manage favourites with local storage
 
 ## 📚 Currently Learning
 Cross-platform development with C#, and separately improving my skills in C, Java, and Angular for software and web applications.
